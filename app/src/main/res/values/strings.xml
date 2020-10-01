@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">English-French Translation Guide</string>
+
+    <string name="num">Numbers</string>
+    <string name="col">Colors</string>
+    <string name="fam">Family</string>
+    <string name="phr">Phrases</string>
+
+</resources>

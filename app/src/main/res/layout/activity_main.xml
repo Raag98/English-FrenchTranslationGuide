@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#FFF7DA"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/cat_number"
+        style="@style/category"
+        android:background="#FD8E09"
+        android:text="@string/num" />
+
+    <TextView
+        android:id="@+id/cat_color"
+        style="@style/category"
+        android:background="#8800A0"
+        android:text="@string/col" />
+
+    <TextView
+        android:id="@+id/cat_family"
+        style="@style/category"
+        android:background="#379237"
+        android:text="@string/fam" />
+
+    <TextView
+        android:id="@+id/cat_phrase"
+        style="@style/category"
+        android:background="#16AFCA"
+        android:text="@string/phr" />
+
+</LinearLayout>
